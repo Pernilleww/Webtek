@@ -1,13 +1,33 @@
+.header {
+  background-color: #3F69AA;
+  overflow: hidden;
+  padding: 15px 10px;
+  margin-bottom: 20px;
+  color: #E8E8EE;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
 body {
   font-family: "Roboto", sans-serif;
-  background-color: #d3d3d3;
+  background-color: #E8E8EE;
   text-align: center;
 }
 
 section {
-  margin-bottom: 10px;
-  border: 1px dashed;
+  padding: 2em;
+  margin: 0 auto;
+  margin-bottom: 1em;
+  border: 2px dashed;
+  border-color: #3F69AA;
   text-align: left;
+  border-radius: 5px;
+  width:50%
+
+}
+
+section:hover {
+  border: 2px solid;
+  border-color: #3F69AA;
 }
 
 h3 {
@@ -20,5 +40,15 @@ img {
 }
 
 .ceo {
-  margin-left: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+footer {
+    background-color: #3F69AA;
+    overflow: hidden;
+    padding: 15px 10px;
+    color: #E8E8EE;
 }

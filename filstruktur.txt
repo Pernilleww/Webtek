@@ -1,0 +1,30 @@
+index.html
+om_oss.html
+kontakt.html
+nyheter.html
+produkter.html
+leverandører.html
+leverandørHarleyKing.html
+leverandørSion.html
+leverandørAndrewWild.html
+tapeter.html
+tekstiler.html
+tepper.html
+puter.html
+...
+img/
+  logo.png
+  bildeavputer.jpg
+  bildeavtekstil.jpg
+  bildeavtapeter.jpg
+  ...
+css/
+  style.css
+  ...
+scripts/
+  slideshow.js
+  bilde_zoom.js
+  bilde_modal.js
+  send_mail.js
+  dropdown_menu.js
+  hover.js

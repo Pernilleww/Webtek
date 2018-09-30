@@ -52,3 +52,18 @@ footer {
     padding: 15px 10px;
     color: #E8E8EE;
 }
+
+table, th, td {
+  border: 1px dashed black;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+tr:first-child {
+  font-weight: bold;  
+}
+
+th, td {
+  padding: 5px;
+  width:225px;
+}

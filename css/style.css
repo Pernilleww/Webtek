@@ -44,13 +44,14 @@ h3 {
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
-
+    width:100%;
+    word-break: break-all; /* Bryter ned ordene til neeste linje når de overlapper*/
+    table-layout:fixed; /*fikser tabellen til å være innafor diven*/
 }
 
 th, td {
     padding: 15px;
 }
-
 
 .ceo {
   max-width: 100px;

@@ -2,16 +2,20 @@ index.html
 om_oss.html
 kontakt.html
 nyheter.html
-produkter.html
-leverandører.html
-leverandørHarleyKing.html
-leverandørSion.html
-leverandørAndrewWild.html
-tapeter.html
-tekstiler.html
-tepper.html
-puter.html
 ...
+produkter/
+  produkter.html
+  tapeter.html
+  tekstiler.html
+  tepper.html
+  puter.html
+  ...
+leverandører/
+  leverandører.html
+  leverandørHarleyKing.html
+  leverandørSion.html
+  leverandørAndrewWild.html
+  ...
 img/
   logo.png
   bildeavputer.jpg
